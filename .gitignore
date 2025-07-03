@@ -1,5 +1,3 @@
-# Node modules
-node_modules/
 
 # Build outputs
 /dist/
@@ -18,3 +16,13 @@ coverage/
 
 # Local environment
 *.local
+=======
+# Build output
+/dist
+
+# Logs
+npm-debug.log*
+
+# Vite cache
+.vite
+
